@@ -1,0 +1,5 @@
+Jist is a lightweight Javascript testing framework. It runs outside the browser, using Rhino as the Javascript engine.
+
+Developers: Danilo Sato, Jerome Riga
+
+TODO: improve documentation

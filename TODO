@@ -1,0 +1,4 @@
+- Report number of assertions
+- Report line of failure / caller (with link to textmate, if possible)
+- Structure files
+- Check Johnson (http://github.com/jbarnette/johnson/tree/master)
